@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: server
-          image: stylerhun/multi-server
+          image: imran19977/server
           ports:
             - containerPort: 5000
           env:
