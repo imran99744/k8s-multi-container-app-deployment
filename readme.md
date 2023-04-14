@@ -24,7 +24,7 @@ This project is a web application using a three-tier architecture. It consists o
 ### Kubernetes
 - Clone the repository: git clone `https://github.com/imran99744/k8s-multi-container-app-deployment.git`
 - Change directory: cd `k8s-multi-container-app-deployment`
-- Deploy the app on Kubernetes: kubectl apply -f k8s
+- Deploy the app on Kubernetes: `kubectl apply -f k8s`
 
 ## Deployment Architecture
 The app consists of three containers: frontend, backend, and database. These containers are orchestrated by Kubernetes, which runs them on a cluster of machines.
