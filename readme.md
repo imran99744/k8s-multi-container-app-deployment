@@ -1,4 +1,4 @@
-# Dockerized a 3 Tire React and Node app with Postgres database, deployed on Kubernetes with Ingress and Nginx
+# Dockerized a 3 Tier React and Node app with Postgres database, deployed on Kubernetes with Ingress and Nginx
 
 ## Introduction
 This project is a web application that consists of a React frontend, a Node.js backend, and a Postgres database. The app is Dockerized and can be easily deployed on a Kubernetes cluster. In addition, the app uses an Ingress service and Nginx as a reverse proxy to provide external access to the app.
